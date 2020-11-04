@@ -20,15 +20,15 @@ display: inline-block;
  position: relative;
  padding: 40px 0;
  padding-left: 44px;
- font: bold 24px/32px 'pt_serifregular', arial, helvetica, sans-serif;
+ font: bold 24px/32px Serif, arial, helvetica, sans-serif;
 }
 .menu {
   display: flex;
   align-items: center;
-  font: 500 18px/21px 'Roboto', arial, helvetica, sans-serif;
 }
 .menu__item {
   padding: 0 13px;
+  font: 500 18px/21px 'Roboto', arial, helvetica, sans-serif;
   color: #000000;
   text-decoration: none;
 }
@@ -38,7 +38,7 @@ display: inline-block;
 .logo__circle {
  position: absolute;
  left: 0;
- top: 50;
+ top: 50px;
  transform: translateY(-50%);
  width: 28px;
  height: 28px;
