@@ -28,7 +28,7 @@ body {
 }
 
 .main-content__title {
-  font-family: 'pt_serif';
+  font-family: 'pt_serif', serif, arial, helvetica, sans-serif;
 }
 
 .menu {
