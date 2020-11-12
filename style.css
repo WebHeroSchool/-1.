@@ -60,14 +60,14 @@ body {
   opacity: 0.7;
 }
 
+.logo__circle_color_dark-blue {
+  background: #0056ec;
+}
+
 .logo__circle_color_blue {
   left: 8px;
   top: 56px;
   background: #c8dbfb;
-}
-
-.logo__circle_color_dark-blue {
-  background: #0056ec;
 }
 
 .menu__item_active::after {
